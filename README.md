@@ -3,6 +3,7 @@
 Frontend de l’application bancaire numérique développée en Angular. Cette interface permet aux utilisateurs de gérer leurs comptes bancaires, consulter leurs transactions, effectuer des virements, etc.
 
 ## 📸 Aperçu
+![Dashboard](src/screenshots)
 
 
 ## 🛠️ Technologies utilisées
